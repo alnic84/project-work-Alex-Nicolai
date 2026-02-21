@@ -1,0 +1,501 @@
+id,title,body,category,priority
+1,Informazioni su data limite,Non riesco a capire perché data limite. potete aiutarmi?.,Amministrazione,bassa
+2,Informazioni su documento,"Gentile supporto, documento per favore. serve supporto.",Amministrazione,media
+3,Segnalazione contratto,"Gentile supporto, contratto gentilmente. grazie.",Tecnico,bassa
+4,Richiesta su errore,"Gentile supporto, errore per favore. grazie.",Tecnico,media
+5,Problema relativo a sistema,"Buongiorno, segnalo che sistema. grazie mille.",Tecnico,bassa
+6,Verifica promozione,Non riesco a capire perché promozione. fatemi sapere.,Tecnico,bassa
+7,Informazioni su autenticazione,Chiedo supporto in quanto autenticazione gentilmente. attendo riscontro.,Tecnico,bassa
+8,Informazioni su abbonamento,"Buongiorno, segnalo che abbonamento. appena potete.",Commerciale,media
+9,Richiesta su scadenza,Si è verificato il seguente problema: scadenza. grazie mille.,Amministrazione,media
+10,Verifica problema,"Gentile supporto, problema gentilmente. potete controllare?.",Tecnico,media
+11,Segnalazione credito,Si è verificato il seguente problema: credito. potete aiutarmi?.,Amministrazione,media
+12,Informazioni su problema,"Buongiorno, segnalo che problema gentilmente. resto in attesa.",Tecnico,media
+13,Problema relativo a crash,"Salve, avrei bisogno di assistenza perché crash. resto in attesa.",Tecnico,alta
+14,Segnalazione sistema,Vorrei chiarimenti dato che sistema per favore. fatemi sapere.,Amministrazione,bassa
+15,Segnalazione contratto,Si è verificato il seguente problema: contratto. grazie.,Commerciale,media
+16,Verifica ricevuta,Avrei necessità di sapere perché ricevuta appena possibile. potete aiutarmi?.,Amministrazione,media
+17,Richiesta su fattura,Si è verificato il seguente problema: fattura. serve supporto.,Amministrazione,media
+18,Problema relativo a rimborso,Si è verificato il seguente problema: rimborso. fatemi sapere.,Amministrazione,media
+19,Informazioni su termine,Avrei necessità di sapere perché termine per favore. quando possibile.,Amministrazione,bassa
+20,Segnalazione piattaforma,Si è verificato il seguente problema: piattaforma appena possibile. potete aiutarmi?.,Tecnico,media
+21,Segnalazione transazione,Non riesco a capire perché transazione gentilmente. attendo riscontro.,Amministrazione,media
+22,Informazioni su transazione,Chiedo supporto in quanto transazione. attendo riscontro.,Amministrazione,media
+23,Richiesta su promozione,Chiedo supporto in quanto promozione. resto in attesa.,Commerciale,bassa
+24,Verifica login,Scrivo per segnalare che login. grazie mille.,Tecnico,media
+25,Richiesta su saldo,Potete verificare perché saldo. grazie mille.,Amministrazione,media
+26,Segnalazione contratto,"Buongiorno, segnalo che contratto appena possibile. grazie mille.",Commerciale,media
+27,Segnalazione proposta,Avrei necessità di sapere perché proposta. fatemi sapere.,Commerciale,media
+28,Problema relativo a ordine,Si è verificato il seguente problema: ordine gentilmente. fatemi sapere.,Commerciale,media
+29,Verifica interruzione,Non riesco a capire perché interruzione appena possibile. appena potete.,Tecnico,bassa
+30,Richiesta su offerta,"Salve, avrei bisogno di assistenza perché offerta. serve supporto.",Commerciale,bassa
+31,Segnalazione proposta,"Gentile supporto, proposta gentilmente. potete aiutarmi?.",Commerciale,bassa
+32,Verifica sistema,Potete verificare perché sistema. attendo riscontro.,Commerciale,media
+33,Informazioni su blocco,Potete verificare perché blocco appena possibile. potete aiutarmi?.,Tecnico,alta
+34,Verifica malfunzionamento,Chiedo supporto in quanto malfunzionamento per favore. potete aiutarmi?.,Tecnico,bassa
+35,Informazioni su termine,Si è verificato il seguente problema: termine. fatemi sapere.,Tecnico,media
+36,Verifica interruzione,Si è verificato il seguente problema: interruzione per favore. resto in attesa.,Tecnico,media
+37,Segnalazione promozione,Avrei necessità di sapere perché promozione per favore. potete aiutarmi?.,Commerciale,media
+38,Problema relativo a preventivo,Si è verificato il seguente problema: preventivo. quando possibile.,Commerciale,media
+39,Richiesta su crash,Non riesco a capire perché crash. fatemi sapere.,Tecnico,alta
+40,Segnalazione autenticazione,"Buongiorno, segnalo che autenticazione. grazie.",Tecnico,media
+41,Richiesta su rimborso,Si è verificato il seguente problema: rimborso. grazie.,Amministrazione,media
+42,Informazioni su credito,Non riesco a capire perché credito appena possibile. grazie.,Tecnico,media
+43,Verifica piano,Vorrei chiarimenti dato che piano gentilmente. serve supporto.,Commerciale,bassa
+44,Segnalazione data limite,Chiedo supporto in quanto data limite gentilmente. grazie mille.,Amministrazione,bassa
+45,Problema relativo a transazione,Non riesco a capire perché transazione gentilmente. grazie mille.,Amministrazione,bassa
+46,Problema relativo a promozione,Chiedo supporto in quanto promozione. resto in attesa.,Amministrazione,media
+47,Verifica piattaforma,Si è verificato il seguente problema: piattaforma gentilmente. serve supporto.,Tecnico,media
+48,Verifica errore,Scrivo per segnalare che errore gentilmente. quando possibile.,Tecnico,media
+49,Segnalazione pagamento,Si è verificato il seguente problema: pagamento per favore. resto in attesa.,Amministrazione,media
+50,Informazioni su blocco,Potete verificare perché blocco per favore. potete controllare?.,Tecnico,alta
+51,Segnalazione autenticazione,Potete verificare perché autenticazione. potete controllare?.,Commerciale,media
+52,Problema relativo a contratto,Non riesco a capire perché contratto. fatemi sapere.,Commerciale,media
+53,Informazioni su transazione,Potete verificare perché transazione per favore. attendo riscontro.,Commerciale,media
+54,Segnalazione piattaforma,Non riesco a capire perché piattaforma appena possibile. serve supporto.,Tecnico,media
+55,Segnalazione sistema,"Salve, avrei bisogno di assistenza perché sistema. grazie mille.",Tecnico,bassa
+56,Richiesta su credito,Vorrei chiarimenti dato che credito per favore. grazie.,Amministrazione,media
+57,Informazioni su promozione,Non riesco a capire perché promozione. grazie mille.,Tecnico,media
+58,Informazioni su problema,Scrivo per segnalare che problema. grazie mille.,Tecnico,media
+59,Informazioni su pagamento,Scrivo per segnalare che pagamento. grazie.,Amministrazione,bassa
+60,Richiesta su piattaforma,Non riesco a capire perché piattaforma per favore. resto in attesa.,Tecnico,bassa
+61,Informazioni su quotazione,"Buongiorno, segnalo che quotazione appena possibile. grazie mille.",Commerciale,bassa
+62,Segnalazione credito,Si è verificato il seguente problema: credito appena possibile. quando possibile.,Amministrazione,media
+63,Richiesta su promozione,"Salve, avrei bisogno di assistenza perché promozione. grazie.",Commerciale,media
+64,Segnalazione transazione,Chiedo supporto in quanto transazione appena possibile. appena potete.,Amministrazione,bassa
+65,Richiesta su interruzione,"Buongiorno, segnalo che interruzione. grazie.",Tecnico,bassa
+66,Informazioni su scadenza,Si è verificato il seguente problema: scadenza. potete aiutarmi?.,Amministrazione,media
+67,Problema relativo a crash,Scrivo per segnalare che crash. resto in attesa.,Tecnico,alta
+68,Informazioni su nota contabile,Potete verificare perché nota contabile. potete controllare?.,Amministrazione,media
+69,Segnalazione fattura,"Gentile supporto, fattura. resto in attesa.",Commerciale,media
+70,Verifica abbonamento,Si è verificato il seguente problema: abbonamento appena possibile. quando possibile.,Commerciale,media
+71,Verifica accesso,Chiedo supporto in quanto accesso gentilmente. grazie.,Tecnico,media
+72,Segnalazione contratto,Chiedo supporto in quanto contratto. appena potete.,Commerciale,media
+73,Problema relativo a blocco,Potete verificare perché blocco. potete aiutarmi?.,Tecnico,alta
+74,Richiesta su piattaforma,Scrivo per segnalare che piattaforma gentilmente. fatemi sapere.,Tecnico,media
+75,Richiesta su rimborso,"Buongiorno, segnalo che rimborso. potete controllare?.",Amministrazione,media
+76,Segnalazione piattaforma,"Buongiorno, segnalo che piattaforma per favore. fatemi sapere.",Tecnico,bassa
+77,Richiesta su abbonamento,"Buongiorno, segnalo che abbonamento appena possibile. potete controllare?.",Commerciale,media
+78,Verifica quotazione,Si è verificato il seguente problema: quotazione gentilmente. appena potete.,Commerciale,media
+79,Richiesta su anomalia,Chiedo supporto in quanto anomalia. potete aiutarmi?.,Tecnico,bassa
+80,Problema relativo a quotazione,Avrei necessità di sapere perché quotazione appena possibile. serve supporto.,Tecnico,media
+81,Informazioni su interruzione,"Gentile supporto, interruzione. serve supporto.",Tecnico,media
+82,Verifica richiesta prodotto,Scrivo per segnalare che richiesta prodotto appena possibile. quando possibile.,Commerciale,bassa
+83,Richiesta su saldo,Scrivo per segnalare che saldo appena possibile. potete controllare?.,Amministrazione,media
+84,Verifica blocco,Potete verificare perché blocco per favore. attendo riscontro.,Tecnico,alta
+85,Segnalazione saldo,Non riesco a capire perché saldo. appena potete.,Amministrazione,media
+86,Problema relativo a problema,Scrivo per segnalare che problema. attendo riscontro.,Tecnico,media
+87,Problema relativo a accesso,Chiedo supporto in quanto accesso appena possibile. quando possibile.,Tecnico,media
+88,Segnalazione pagamento,"Salve, avrei bisogno di assistenza perché pagamento per favore. attendo riscontro.",Amministrazione,media
+89,Problema relativo a rimborso,Chiedo supporto in quanto rimborso. serve supporto.,Amministrazione,bassa
+90,Problema relativo a proposta,Potete verificare perché proposta. resto in attesa.,Commerciale,media
+91,Informazioni su scadenza,Non riesco a capire perché scadenza. grazie.,Tecnico,bassa
+92,Richiesta su login,Avrei necessità di sapere perché login per favore. attendo riscontro.,Tecnico,media
+93,Verifica acquisto,Scrivo per segnalare che acquisto. grazie.,Amministrazione,media
+94,Informazioni su fattura,"Gentile supporto, fattura per favore. grazie mille.",Amministrazione,bassa
+95,Problema relativo a fattura,Chiedo supporto in quanto fattura. serve supporto.,Commerciale,media
+96,Segnalazione acquisto,"Buongiorno, segnalo che acquisto per favore. grazie mille.",Commerciale,bassa
+97,Segnalazione interruzione,Vorrei chiarimenti dato che interruzione. potete controllare?.,Tecnico,media
+98,Informazioni su server,"Gentile supporto, server. attendo riscontro.",Amministrazione,media
+99,Problema relativo a preventivo,Chiedo supporto in quanto preventivo per favore. potete controllare?.,Commerciale,bassa
+100,Segnalazione stima,Si è verificato il seguente problema: stima gentilmente. grazie mille.,Commerciale,media
+101,Segnalazione acquisto,Avrei necessità di sapere perché acquisto gentilmente. potete aiutarmi?.,Commerciale,media
+102,Problema relativo a problema,"Salve, avrei bisogno di assistenza perché problema per favore. potete controllare?.",Tecnico,media
+103,Verifica credito,"Gentile supporto, credito. potete aiutarmi?.",Amministrazione,media
+104,Problema relativo a ricevuta,Si è verificato il seguente problema: ricevuta gentilmente. appena potete.,Amministrazione,media
+105,Verifica blocco,Vorrei chiarimenti dato che blocco per favore. resto in attesa.,Tecnico,alta
+106,Verifica autenticazione,Si è verificato il seguente problema: autenticazione per favore. potete aiutarmi?.,Tecnico,media
+107,Informazioni su blocco,Si è verificato il seguente problema: blocco gentilmente. attendo riscontro.,Tecnico,alta
+108,Verifica rimborso,Avrei necessità di sapere perché rimborso per favore. serve supporto.,Amministrazione,bassa
+109,Problema relativo a versamento,"Salve, avrei bisogno di assistenza perché versamento per favore. appena potete.",Amministrazione,bassa
+110,Problema relativo a pagamento,Vorrei chiarimenti dato che pagamento per favore. appena potete.,Amministrazione,media
+111,Richiesta su blocco,"Salve, avrei bisogno di assistenza perché blocco. potete controllare?.",Tecnico,alta
+112,Richiesta su versamento,Non riesco a capire perché versamento per favore. fatemi sapere.,Amministrazione,bassa
+113,Segnalazione contratto,Potete verificare perché contratto appena possibile. potete controllare?.,Tecnico,media
+114,Informazioni su restituzione,"Salve, avrei bisogno di assistenza perché restituzione per favore. grazie.",Amministrazione,media
+115,Segnalazione pagamento,"Salve, avrei bisogno di assistenza perché pagamento. attendo riscontro.",Tecnico,media
+116,Problema relativo a anomalia,Vorrei chiarimenti dato che anomalia. appena potete.,Tecnico,media
+117,Problema relativo a proposta,"Salve, avrei bisogno di assistenza perché proposta appena possibile. grazie.",Tecnico,media
+118,Segnalazione accesso,"Gentile supporto, accesso. serve supporto.",Tecnico,media
+119,Problema relativo a quotazione,"Buongiorno, segnalo che quotazione. serve supporto.",Commerciale,media
+120,Richiesta su abbonamento,Potete verificare perché abbonamento per favore. attendo riscontro.,Commerciale,media
+121,Informazioni su login,Non riesco a capire perché login appena possibile. attendo riscontro.,Tecnico,media
+122,Verifica richiesta prodotto,Si è verificato il seguente problema: richiesta prodotto per favore. appena potete.,Commerciale,media
+123,Verifica autenticazione,Si è verificato il seguente problema: autenticazione appena possibile. attendo riscontro.,Commerciale,media
+124,Problema relativo a rimborso,Avrei necessità di sapere perché rimborso per favore. potete aiutarmi?.,Amministrazione,media
+125,Richiesta su piattaforma,Vorrei chiarimenti dato che piattaforma gentilmente. appena potete.,Tecnico,media
+126,Richiesta su problema,Scrivo per segnalare che problema gentilmente. fatemi sapere.,Tecnico,media
+127,Verifica contratto,Vorrei chiarimenti dato che contratto. quando possibile.,Commerciale,media
+128,Richiesta su credito,Potete verificare perché credito per favore. potete controllare?.,Amministrazione,media
+129,Problema relativo a ricevuta,"Buongiorno, segnalo che ricevuta. resto in attesa.",Commerciale,media
+130,Segnalazione versamento,Vorrei chiarimenti dato che versamento. attendo riscontro.,Amministrazione,bassa
+131,Richiesta su transazione,Scrivo per segnalare che transazione per favore. resto in attesa.,Commerciale,media
+132,Verifica crash,Scrivo per segnalare che crash per favore. serve supporto.,Amministrazione,alta
+133,Problema relativo a documento,Avrei necessità di sapere perché documento. resto in attesa.,Amministrazione,media
+134,Richiesta su credito,Chiedo supporto in quanto credito. attendo riscontro.,Amministrazione,media
+135,Richiesta su preventivo,"Buongiorno, segnalo che preventivo gentilmente. attendo riscontro.",Commerciale,bassa
+136,Problema relativo a restituzione,"Buongiorno, segnalo che restituzione per favore. serve supporto.",Amministrazione,bassa
+137,Richiesta su quotazione,Potete verificare perché quotazione per favore. potete controllare?.,Commerciale,media
+138,Informazioni su credito,"Gentile supporto, credito per favore. appena potete.",Amministrazione,bassa
+139,Segnalazione stima,Avrei necessità di sapere perché stima. appena potete.,Commerciale,media
+140,Segnalazione richiesta prodotto,Chiedo supporto in quanto richiesta prodotto gentilmente. potete aiutarmi?.,Commerciale,bassa
+141,Problema relativo a restituzione,Scrivo per segnalare che restituzione. potete aiutarmi?.,Amministrazione,bassa
+142,Problema relativo a stima,"Salve, avrei bisogno di assistenza perché stima. fatemi sapere.",Commerciale,media
+143,Problema relativo a transazione,Potete verificare perché transazione. grazie mille.,Tecnico,media
+144,Problema relativo a stima,Vorrei chiarimenti dato che stima. attendo riscontro.,Tecnico,bassa
+145,Richiesta su piattaforma,Scrivo per segnalare che piattaforma gentilmente. serve supporto.,Tecnico,media
+146,Segnalazione blocco,Si è verificato il seguente problema: blocco. quando possibile.,Tecnico,alta
+147,Richiesta su ricevuta,Scrivo per segnalare che ricevuta per favore. serve supporto.,Amministrazione,bassa
+148,Segnalazione stima,Vorrei chiarimenti dato che stima. serve supporto.,Commerciale,bassa
+149,Problema relativo a offerta,Non riesco a capire perché offerta gentilmente. serve supporto.,Commerciale,bassa
+150,Problema relativo a credito,Si è verificato il seguente problema: credito. potete controllare?.,Amministrazione,media
+151,Segnalazione accesso,Vorrei chiarimenti dato che accesso appena possibile. resto in attesa.,Tecnico,media
+152,Problema relativo a restituzione,"Buongiorno, segnalo che restituzione per favore. grazie mille.",Amministrazione,bassa
+153,Problema relativo a transazione,Chiedo supporto in quanto transazione appena possibile. fatemi sapere.,Amministrazione,bassa
+154,Informazioni su ricevuta,Avrei necessità di sapere perché ricevuta. quando possibile.,Amministrazione,media
+155,Informazioni su stima,"Buongiorno, segnalo che stima per favore. potete aiutarmi?.",Commerciale,media
+156,Richiesta su pagamento,Chiedo supporto in quanto pagamento. appena potete.,Amministrazione,media
+157,Richiesta su blocco,Chiedo supporto in quanto blocco. potete aiutarmi?.,Tecnico,alta
+158,Richiesta su errore,Vorrei chiarimenti dato che errore appena possibile. resto in attesa.,Tecnico,media
+159,Segnalazione malfunzionamento,Avrei necessità di sapere perché malfunzionamento. grazie.,Tecnico,media
+160,Verifica contratto,Si è verificato il seguente problema: contratto per favore. serve supporto.,Tecnico,media
+161,Verifica sistema,Si è verificato il seguente problema: sistema gentilmente. potete controllare?.,Tecnico,media
+162,Segnalazione server,Vorrei chiarimenti dato che server. resto in attesa.,Tecnico,bassa
+163,Verifica pagamento,Vorrei chiarimenti dato che pagamento. resto in attesa.,Commerciale,media
+164,Informazioni su ordine,Scrivo per segnalare che ordine. potete controllare?.,Commerciale,bassa
+165,Richiesta su rimborso,Chiedo supporto in quanto rimborso per favore. resto in attesa.,Amministrazione,media
+166,Richiesta su versamento,Vorrei chiarimenti dato che versamento appena possibile. attendo riscontro.,Amministrazione,media
+167,Problema relativo a ordine,"Salve, avrei bisogno di assistenza perché ordine appena possibile. fatemi sapere.",Commerciale,media
+168,Problema relativo a sistema,Non riesco a capire perché sistema appena possibile. potete controllare?.,Tecnico,media
+169,Informazioni su fattura,"Gentile supporto, fattura gentilmente. fatemi sapere.",Amministrazione,media
+170,Verifica restituzione,Non riesco a capire perché restituzione gentilmente. appena potete.,Amministrazione,bassa
+171,Richiesta su credito,"Buongiorno, segnalo che credito per favore. attendo riscontro.",Amministrazione,media
+172,Verifica pagamento,Si è verificato il seguente problema: pagamento. attendo riscontro.,Tecnico,media
+173,Richiesta su quotazione,Potete verificare perché quotazione. serve supporto.,Commerciale,media
+174,Problema relativo a nota contabile,Chiedo supporto in quanto nota contabile per favore. grazie.,Amministrazione,bassa
+175,Problema relativo a contratto,Non riesco a capire perché contratto. potete aiutarmi?.,Commerciale,media
+176,Informazioni su versamento,Avrei necessità di sapere perché versamento per favore. potete controllare?.,Amministrazione,bassa
+177,Segnalazione ordine,Si è verificato il seguente problema: ordine per favore. appena potete.,Commerciale,media
+178,Verifica autenticazione,Scrivo per segnalare che autenticazione. grazie mille.,Tecnico,bassa
+179,Segnalazione proposta,Vorrei chiarimenti dato che proposta. attendo riscontro.,Commerciale,media
+180,Segnalazione piano,"Buongiorno, segnalo che piano. resto in attesa.",Commerciale,bassa
+181,Segnalazione versamento,Avrei necessità di sapere perché versamento. grazie mille.,Amministrazione,media
+182,Richiesta su richiesta prodotto,"Salve, avrei bisogno di assistenza perché richiesta prodotto. potete aiutarmi?.",Tecnico,media
+183,Verifica accesso,Potete verificare perché accesso. resto in attesa.,Tecnico,media
+184,Informazioni su accesso,Avrei necessità di sapere perché accesso. potete controllare?.,Amministrazione,media
+185,Informazioni su saldo,Vorrei chiarimenti dato che saldo appena possibile. potete controllare?.,Commerciale,media
+186,Segnalazione sistema,Vorrei chiarimenti dato che sistema. potete aiutarmi?.,Tecnico,bassa
+187,Informazioni su rimborso,Scrivo per segnalare che rimborso appena possibile. serve supporto.,Amministrazione,bassa
+188,Richiesta su quotazione,"Gentile supporto, quotazione per favore. appena potete.",Commerciale,media
+189,Richiesta su quotazione,Chiedo supporto in quanto quotazione per favore. potete controllare?.,Commerciale,bassa
+190,Verifica acquisto,Chiedo supporto in quanto acquisto per favore. fatemi sapere.,Commerciale,media
+191,Segnalazione promozione,Avrei necessità di sapere perché promozione per favore. fatemi sapere.,Commerciale,bassa
+192,Segnalazione anomalia,"Buongiorno, segnalo che anomalia gentilmente. appena potete.",Tecnico,media
+193,Informazioni su stima,Avrei necessità di sapere perché stima appena possibile. resto in attesa.,Amministrazione,bassa
+194,Segnalazione errore,Si è verificato il seguente problema: errore per favore. grazie mille.,Tecnico,media
+195,Richiesta su richiesta prodotto,Chiedo supporto in quanto richiesta prodotto gentilmente. quando possibile.,Amministrazione,media
+196,Problema relativo a promozione,Vorrei chiarimenti dato che promozione. fatemi sapere.,Commerciale,media
+197,Informazioni su malfunzionamento,Potete verificare perché malfunzionamento. serve supporto.,Commerciale,media
+198,Richiesta su errore,Avrei necessità di sapere perché errore per favore. resto in attesa.,Tecnico,media
+199,Informazioni su nota contabile,"Buongiorno, segnalo che nota contabile per favore. fatemi sapere.",Amministrazione,bassa
+200,Segnalazione data limite,Potete verificare perché data limite per favore. attendo riscontro.,Amministrazione,media
+201,Richiesta su ordine,Scrivo per segnalare che ordine. quando possibile.,Commerciale,media
+202,Verifica scadenza,Avrei necessità di sapere perché scadenza. serve supporto.,Amministrazione,media
+203,Problema relativo a versamento,Chiedo supporto in quanto versamento. quando possibile.,Commerciale,bassa
+204,Segnalazione errore,Non riesco a capire perché errore. appena potete.,Tecnico,media
+205,Segnalazione contratto,Scrivo per segnalare che contratto. potete controllare?.,Commerciale,media
+206,Verifica data limite,Potete verificare perché data limite appena possibile. quando possibile.,Amministrazione,media
+207,Segnalazione contratto,Avrei necessità di sapere perché contratto. potete aiutarmi?.,Commerciale,bassa
+208,Richiesta su proposta,Si è verificato il seguente problema: proposta gentilmente. potete controllare?.,Commerciale,media
+209,Richiesta su sistema,Non riesco a capire perché sistema per favore. appena potete.,Tecnico,media
+210,Richiesta su quotazione,Scrivo per segnalare che quotazione. appena potete.,Commerciale,bassa
+211,Problema relativo a piattaforma,"Salve, avrei bisogno di assistenza perché piattaforma appena possibile. quando possibile.",Amministrazione,bassa
+212,Segnalazione scadenza,Vorrei chiarimenti dato che scadenza. serve supporto.,Amministrazione,bassa
+213,Verifica proposta,Si è verificato il seguente problema: proposta. appena potete.,Commerciale,media
+214,Informazioni su transazione,"Salve, avrei bisogno di assistenza perché transazione gentilmente. appena potete.",Amministrazione,bassa
+215,Richiesta su restituzione,Potete verificare perché restituzione. potete aiutarmi?.,Amministrazione,media
+216,Richiesta su transazione,Chiedo supporto in quanto transazione gentilmente. serve supporto.,Amministrazione,bassa
+217,Problema relativo a rimborso,"Salve, avrei bisogno di assistenza perché rimborso appena possibile. quando possibile.",Amministrazione,media
+218,Segnalazione scadenza,"Salve, avrei bisogno di assistenza perché scadenza. grazie.",Amministrazione,media
+219,Informazioni su autenticazione,"Gentile supporto, autenticazione gentilmente. potete controllare?.",Commerciale,media
+220,Segnalazione login,Avrei necessità di sapere perché login. attendo riscontro.,Tecnico,media
+221,Problema relativo a anomalia,Scrivo per segnalare che anomalia. resto in attesa.,Amministrazione,bassa
+222,Informazioni su sistema,Potete verificare perché sistema. potete aiutarmi?.,Tecnico,media
+223,Richiesta su blocco,"Buongiorno, segnalo che blocco. resto in attesa.",Tecnico,alta
+224,Problema relativo a nota contabile,Chiedo supporto in quanto nota contabile. potete aiutarmi?.,Amministrazione,bassa
+225,Problema relativo a stima,"Gentile supporto, stima. grazie mille.",Commerciale,bassa
+226,Informazioni su server,Vorrei chiarimenti dato che server gentilmente. serve supporto.,Tecnico,media
+227,Segnalazione stima,"Buongiorno, segnalo che stima per favore. serve supporto.",Amministrazione,bassa
+228,Richiesta su credito,"Gentile supporto, credito. potete controllare?.",Amministrazione,bassa
+229,Informazioni su restituzione,"Buongiorno, segnalo che restituzione appena possibile. attendo riscontro.",Amministrazione,media
+230,Verifica sistema,Si è verificato il seguente problema: sistema. quando possibile.,Tecnico,media
+231,Problema relativo a login,"Buongiorno, segnalo che login appena possibile. appena potete.",Tecnico,bassa
+232,Problema relativo a malfunzionamento,Potete verificare perché malfunzionamento appena possibile. quando possibile.,Tecnico,media
+233,Informazioni su richiesta prodotto,Si è verificato il seguente problema: richiesta prodotto. resto in attesa.,Amministrazione,media
+234,Problema relativo a proposta,Vorrei chiarimenti dato che proposta gentilmente. attendo riscontro.,Commerciale,media
+235,Segnalazione piano,"Salve, avrei bisogno di assistenza perché piano appena possibile. potete aiutarmi?.",Commerciale,media
+236,Verifica saldo,"Salve, avrei bisogno di assistenza perché saldo. serve supporto.",Amministrazione,media
+237,Richiesta su contratto,Scrivo per segnalare che contratto gentilmente. grazie mille.,Commerciale,media
+238,Verifica acquisto,Avrei necessità di sapere perché acquisto. potete aiutarmi?.,Commerciale,bassa
+239,Problema relativo a ordine,Chiedo supporto in quanto ordine appena possibile. quando possibile.,Commerciale,media
+240,Informazioni su contratto,Non riesco a capire perché contratto. potete controllare?.,Amministrazione,media
+241,Informazioni su nota contabile,Si è verificato il seguente problema: nota contabile per favore. potete aiutarmi?.,Commerciale,media
+242,Problema relativo a ordine,"Buongiorno, segnalo che ordine. resto in attesa.",Commerciale,media
+243,Segnalazione malfunzionamento,Si è verificato il seguente problema: malfunzionamento appena possibile. resto in attesa.,Tecnico,media
+244,Informazioni su server,Non riesco a capire perché server. grazie mille.,Amministrazione,bassa
+245,Problema relativo a accesso,Vorrei chiarimenti dato che accesso. quando possibile.,Tecnico,media
+246,Informazioni su autenticazione,"Gentile supporto, autenticazione. serve supporto.",Tecnico,bassa
+247,Richiesta su accesso,"Salve, avrei bisogno di assistenza perché accesso per favore. fatemi sapere.",Tecnico,media
+248,Richiesta su login,"Salve, avrei bisogno di assistenza perché login. quando possibile.",Tecnico,bassa
+249,Problema relativo a rimborso,Si è verificato il seguente problema: rimborso per favore. grazie mille.,Amministrazione,media
+250,Problema relativo a ordine,Si è verificato il seguente problema: ordine appena possibile. potete aiutarmi?.,Tecnico,media
+251,Informazioni su sistema,Potete verificare perché sistema appena possibile. resto in attesa.,Tecnico,media
+252,Segnalazione malfunzionamento,Non riesco a capire perché malfunzionamento appena possibile. attendo riscontro.,Tecnico,media
+253,Richiesta su preventivo,Chiedo supporto in quanto preventivo. fatemi sapere.,Commerciale,media
+254,Problema relativo a saldo,Potete verificare perché saldo appena possibile. quando possibile.,Amministrazione,media
+255,Informazioni su richiesta prodotto,"Gentile supporto, richiesta prodotto per favore. potete controllare?.",Commerciale,media
+256,Problema relativo a rimborso,Si è verificato il seguente problema: rimborso appena possibile. resto in attesa.,Amministrazione,media
+257,Richiesta su acquisto,Vorrei chiarimenti dato che acquisto gentilmente. quando possibile.,Commerciale,media
+258,Informazioni su login,Chiedo supporto in quanto login. appena potete.,Tecnico,media
+259,Informazioni su server,Non riesco a capire perché server per favore. potete aiutarmi?.,Tecnico,bassa
+260,Informazioni su interruzione,"Buongiorno, segnalo che interruzione. attendo riscontro.",Tecnico,media
+261,Verifica acquisto,"Salve, avrei bisogno di assistenza perché acquisto. potete aiutarmi?.",Commerciale,bassa
+262,Verifica autenticazione,"Salve, avrei bisogno di assistenza perché autenticazione. appena potete.",Tecnico,bassa
+263,Informazioni su documento,Avrei necessità di sapere perché documento per favore. attendo riscontro.,Amministrazione,media
+264,Problema relativo a ricevuta,Avrei necessità di sapere perché ricevuta appena possibile. serve supporto.,Amministrazione,media
+265,Richiesta su termine,"Buongiorno, segnalo che termine appena possibile. fatemi sapere.",Amministrazione,media
+266,Informazioni su ordine,Chiedo supporto in quanto ordine. fatemi sapere.,Commerciale,bassa
+267,Segnalazione fattura,Non riesco a capire perché fattura. appena potete.,Commerciale,bassa
+268,Informazioni su piano,Avrei necessità di sapere perché piano appena possibile. grazie.,Commerciale,bassa
+269,Verifica quotazione,Si è verificato il seguente problema: quotazione. fatemi sapere.,Commerciale,media
+270,Verifica contratto,Potete verificare perché contratto per favore. quando possibile.,Commerciale,media
+271,Segnalazione data limite,Non riesco a capire perché data limite. serve supporto.,Amministrazione,media
+272,Richiesta su richiesta prodotto,Avrei necessità di sapere perché richiesta prodotto. serve supporto.,Commerciale,media
+273,Informazioni su saldo,Vorrei chiarimenti dato che saldo per favore. attendo riscontro.,Amministrazione,bassa
+274,Verifica abbonamento,"Buongiorno, segnalo che abbonamento gentilmente. grazie.",Amministrazione,media
+275,Verifica acquisto,"Gentile supporto, acquisto. serve supporto.",Amministrazione,bassa
+276,Segnalazione termine,Non riesco a capire perché termine. potete aiutarmi?.,Amministrazione,bassa
+277,Verifica pagamento,Chiedo supporto in quanto pagamento. attendo riscontro.,Amministrazione,bassa
+278,Problema relativo a promozione,Vorrei chiarimenti dato che promozione appena possibile. appena potete.,Commerciale,media
+279,Problema relativo a quotazione,Vorrei chiarimenti dato che quotazione. grazie.,Commerciale,media
+280,Verifica autenticazione,"Gentile supporto, autenticazione. potete aiutarmi?.",Tecnico,media
+281,Verifica termine,Scrivo per segnalare che termine appena possibile. attendo riscontro.,Amministrazione,bassa
+282,Verifica sistema,Scrivo per segnalare che sistema appena possibile. quando possibile.,Tecnico,media
+283,Verifica richiesta prodotto,Avrei necessità di sapere perché richiesta prodotto gentilmente. grazie.,Commerciale,bassa
+284,Problema relativo a login,Non riesco a capire perché login appena possibile. potete controllare?.,Tecnico,media
+285,Problema relativo a pagamento,Non riesco a capire perché pagamento appena possibile. quando possibile.,Amministrazione,media
+286,Problema relativo a blocco,Scrivo per segnalare che blocco per favore. resto in attesa.,Tecnico,alta
+287,Richiesta su ordine,Potete verificare perché ordine appena possibile. appena potete.,Commerciale,media
+288,Informazioni su crash,Scrivo per segnalare che crash per favore. grazie.,Tecnico,alta
+289,Segnalazione offerta,Chiedo supporto in quanto offerta. grazie mille.,Commerciale,bassa
+290,Problema relativo a restituzione,"Buongiorno, segnalo che restituzione gentilmente. serve supporto.",Amministrazione,bassa
+291,Verifica problema,Vorrei chiarimenti dato che problema. potete controllare?.,Tecnico,media
+292,Informazioni su termine,Chiedo supporto in quanto termine gentilmente. attendo riscontro.,Commerciale,media
+293,Richiesta su rimborso,"Buongiorno, segnalo che rimborso per favore. serve supporto.",Commerciale,media
+294,Verifica documento,Chiedo supporto in quanto documento. potete controllare?.,Amministrazione,media
+295,Richiesta su accesso,Non riesco a capire perché accesso appena possibile. serve supporto.,Tecnico,media
+296,Segnalazione richiesta prodotto,Non riesco a capire perché richiesta prodotto. resto in attesa.,Commerciale,media
+297,Richiesta su offerta,Scrivo per segnalare che offerta. quando possibile.,Commerciale,bassa
+298,Richiesta su login,"Buongiorno, segnalo che login. appena potete.",Tecnico,media
+299,Richiesta su piano,Scrivo per segnalare che piano appena possibile. resto in attesa.,Commerciale,bassa
+300,Segnalazione quotazione,Scrivo per segnalare che quotazione gentilmente. potete controllare?.,Commerciale,media
+301,Informazioni su ricevuta,"Salve, avrei bisogno di assistenza perché ricevuta gentilmente. quando possibile.",Amministrazione,bassa
+302,Problema relativo a interruzione,Chiedo supporto in quanto interruzione gentilmente. attendo riscontro.,Tecnico,bassa
+303,Richiesta su crash,Potete verificare perché crash per favore. attendo riscontro.,Tecnico,alta
+304,Verifica server,Avrei necessità di sapere perché server. quando possibile.,Amministrazione,bassa
+305,Informazioni su abbonamento,"Gentile supporto, abbonamento. grazie mille.",Commerciale,bassa
+306,Verifica documento,Si è verificato il seguente problema: documento. grazie mille.,Amministrazione,media
+307,Segnalazione piano,Si è verificato il seguente problema: piano appena possibile. quando possibile.,Commerciale,media
+308,Richiesta su abbonamento,"Buongiorno, segnalo che abbonamento. potete aiutarmi?.",Commerciale,media
+309,Richiesta su proposta,Potete verificare perché proposta per favore. potete aiutarmi?.,Commerciale,media
+310,Verifica interruzione,Vorrei chiarimenti dato che interruzione. potete aiutarmi?.,Tecnico,media
+311,Segnalazione anomalia,Vorrei chiarimenti dato che anomalia. appena potete.,Tecnico,media
+312,Verifica autenticazione,"Salve, avrei bisogno di assistenza perché autenticazione per favore. fatemi sapere.",Tecnico,bassa
+313,Richiesta su autenticazione,Potete verificare perché autenticazione. attendo riscontro.,Tecnico,media
+314,Richiesta su documento,Vorrei chiarimenti dato che documento. attendo riscontro.,Amministrazione,media
+315,Informazioni su autenticazione,"Buongiorno, segnalo che autenticazione per favore. potete controllare?.",Tecnico,bassa
+316,Problema relativo a versamento,"Gentile supporto, versamento. fatemi sapere.",Tecnico,bassa
+317,Informazioni su accesso,Avrei necessità di sapere perché accesso. serve supporto.,Tecnico,media
+318,Richiesta su promozione,"Buongiorno, segnalo che promozione. potete controllare?.",Commerciale,bassa
+319,Informazioni su transazione,Potete verificare perché transazione per favore. quando possibile.,Amministrazione,media
+320,Segnalazione blocco,Si è verificato il seguente problema: blocco appena possibile. appena potete.,Tecnico,alta
+321,Problema relativo a problema,Non riesco a capire perché problema. potete aiutarmi?.,Tecnico,media
+322,Richiesta su offerta,"Gentile supporto, offerta appena possibile. resto in attesa.",Commerciale,bassa
+323,Richiesta su fattura,Scrivo per segnalare che fattura appena possibile. potete controllare?.,Tecnico,bassa
+324,Richiesta su autenticazione,"Gentile supporto, autenticazione per favore. grazie mille.",Tecnico,bassa
+325,Segnalazione rimborso,Si è verificato il seguente problema: rimborso appena possibile. potete aiutarmi?.,Commerciale,media
+326,Problema relativo a stima,Potete verificare perché stima per favore. serve supporto.,Commerciale,media
+327,Segnalazione versamento,Vorrei chiarimenti dato che versamento. attendo riscontro.,Tecnico,media
+328,Richiesta su quotazione,"Salve, avrei bisogno di assistenza perché quotazione per favore. attendo riscontro.",Amministrazione,bassa
+329,Richiesta su nota contabile,Si è verificato il seguente problema: nota contabile. potete controllare?.,Amministrazione,media
+330,Informazioni su versamento,Scrivo per segnalare che versamento. quando possibile.,Commerciale,media
+331,Verifica saldo,Vorrei chiarimenti dato che saldo per favore. quando possibile.,Amministrazione,bassa
+332,Informazioni su ricevuta,"Gentile supporto, ricevuta. attendo riscontro.",Tecnico,bassa
+333,Richiesta su nota contabile,"Buongiorno, segnalo che nota contabile. quando possibile.",Amministrazione,bassa
+334,Informazioni su ricevuta,"Gentile supporto, ricevuta appena possibile. serve supporto.",Amministrazione,bassa
+335,Richiesta su contratto,"Gentile supporto, contratto. grazie.",Commerciale,media
+336,Verifica errore,Chiedo supporto in quanto errore appena possibile. serve supporto.,Tecnico,media
+337,Richiesta su ricevuta,Scrivo per segnalare che ricevuta. resto in attesa.,Amministrazione,bassa
+338,Verifica data limite,Non riesco a capire perché data limite. potete aiutarmi?.,Amministrazione,media
+339,Segnalazione login,Potete verificare perché login gentilmente. quando possibile.,Tecnico,media
+340,Segnalazione abbonamento,Scrivo per segnalare che abbonamento. grazie.,Commerciale,media
+341,Verifica ricevuta,Avrei necessità di sapere perché ricevuta. serve supporto.,Commerciale,bassa
+342,Segnalazione fattura,"Gentile supporto, fattura appena possibile. appena potete.",Amministrazione,media
+343,Informazioni su versamento,"Buongiorno, segnalo che versamento per favore. grazie.",Amministrazione,bassa
+344,Verifica credito,Scrivo per segnalare che credito. quando possibile.,Amministrazione,bassa
+345,Segnalazione ricevuta,Avrei necessità di sapere perché ricevuta. attendo riscontro.,Amministrazione,bassa
+346,Segnalazione abbonamento,"Buongiorno, segnalo che abbonamento per favore. attendo riscontro.",Commerciale,media
+347,Informazioni su credito,Potete verificare perché credito. potete aiutarmi?.,Amministrazione,media
+348,Verifica stima,"Salve, avrei bisogno di assistenza perché stima gentilmente. fatemi sapere.",Commerciale,media
+349,Verifica login,"Gentile supporto, login per favore. quando possibile.",Tecnico,media
+350,Informazioni su server,"Gentile supporto, server. grazie mille.",Tecnico,media
+351,Verifica versamento,Scrivo per segnalare che versamento. grazie mille.,Amministrazione,media
+352,Richiesta su stima,Vorrei chiarimenti dato che stima. fatemi sapere.,Commerciale,bassa
+353,Informazioni su problema,"Buongiorno, segnalo che problema. quando possibile.",Tecnico,media
+354,Segnalazione ordine,Scrivo per segnalare che ordine. serve supporto.,Commerciale,media
+355,Segnalazione stima,Chiedo supporto in quanto stima. quando possibile.,Commerciale,bassa
+356,Problema relativo a piattaforma,Si è verificato il seguente problema: piattaforma appena possibile. potete controllare?.,Tecnico,media
+357,Verifica credito,Vorrei chiarimenti dato che credito. potete controllare?.,Amministrazione,bassa
+358,Verifica interruzione,"Salve, avrei bisogno di assistenza perché interruzione. quando possibile.",Tecnico,media
+359,Richiesta su richiesta prodotto,"Gentile supporto, richiesta prodotto. grazie.",Commerciale,media
+360,Problema relativo a quotazione,Avrei necessità di sapere perché quotazione. appena potete.,Commerciale,media
+361,Segnalazione ricevuta,"Buongiorno, segnalo che ricevuta. quando possibile.",Amministrazione,media
+362,Informazioni su abbonamento,Chiedo supporto in quanto abbonamento. potete controllare?.,Commerciale,bassa
+363,Richiesta su malfunzionamento,Non riesco a capire perché malfunzionamento. potete aiutarmi?.,Tecnico,bassa
+364,Informazioni su proposta,Non riesco a capire perché proposta appena possibile. serve supporto.,Commerciale,media
+365,Segnalazione credito,Chiedo supporto in quanto credito. potete aiutarmi?.,Amministrazione,bassa
+366,Informazioni su versamento,Chiedo supporto in quanto versamento. appena potete.,Amministrazione,bassa
+367,Richiesta su restituzione,"Salve, avrei bisogno di assistenza perché restituzione gentilmente. serve supporto.",Amministrazione,bassa
+368,Segnalazione acquisto,Si è verificato il seguente problema: acquisto. fatemi sapere.,Commerciale,media
+369,Richiesta su acquisto,Si è verificato il seguente problema: acquisto appena possibile. fatemi sapere.,Tecnico,media
+370,Verifica documento,Si è verificato il seguente problema: documento. potete controllare?.,Amministrazione,media
+371,Informazioni su pagamento,Si è verificato il seguente problema: pagamento. fatemi sapere.,Amministrazione,media
+372,Verifica preventivo,Avrei necessità di sapere perché preventivo appena possibile. quando possibile.,Commerciale,bassa
+373,Verifica scadenza,Vorrei chiarimenti dato che scadenza per favore. serve supporto.,Amministrazione,bassa
+374,Problema relativo a proposta,Avrei necessità di sapere perché proposta. grazie.,Commerciale,bassa
+375,Segnalazione piattaforma,Chiedo supporto in quanto piattaforma gentilmente. potete controllare?.,Tecnico,bassa
+376,Informazioni su ricevuta,Vorrei chiarimenti dato che ricevuta appena possibile. appena potete.,Amministrazione,bassa
+377,Problema relativo a documento,Si è verificato il seguente problema: documento per favore. appena potete.,Amministrazione,media
+378,Segnalazione credito,Potete verificare perché credito gentilmente. attendo riscontro.,Amministrazione,media
+379,Segnalazione abbonamento,Non riesco a capire perché abbonamento. potete controllare?.,Commerciale,media
+380,Problema relativo a acquisto,Scrivo per segnalare che acquisto. grazie.,Commerciale,media
+381,Verifica piano,Chiedo supporto in quanto piano appena possibile. quando possibile.,Commerciale,bassa
+382,Richiesta su saldo,Chiedo supporto in quanto saldo. potete aiutarmi?.,Commerciale,bassa
+383,Segnalazione quotazione,"Gentile supporto, quotazione appena possibile. quando possibile.",Commerciale,media
+384,Informazioni su termine,"Gentile supporto, termine appena possibile. grazie.",Amministrazione,media
+385,Informazioni su piattaforma,Vorrei chiarimenti dato che piattaforma gentilmente. serve supporto.,Tecnico,bassa
+386,Informazioni su contratto,Avrei necessità di sapere perché contratto gentilmente. potete aiutarmi?.,Commerciale,media
+387,Richiesta su piattaforma,Avrei necessità di sapere perché piattaforma per favore. quando possibile.,Tecnico,bassa
+388,Verifica data limite,Si è verificato il seguente problema: data limite appena possibile. potete aiutarmi?.,Amministrazione,media
+389,Richiesta su accesso,Potete verificare perché accesso gentilmente. serve supporto.,Amministrazione,media
+390,Informazioni su preventivo,Scrivo per segnalare che preventivo. fatemi sapere.,Commerciale,bassa
+391,Verifica data limite,"Salve, avrei bisogno di assistenza perché data limite. attendo riscontro.",Amministrazione,media
+392,Segnalazione preventivo,Non riesco a capire perché preventivo appena possibile. resto in attesa.,Commerciale,media
+393,Problema relativo a pagamento,Non riesco a capire perché pagamento. potete aiutarmi?.,Amministrazione,bassa
+394,Richiesta su sistema,"Gentile supporto, sistema. attendo riscontro.",Amministrazione,bassa
+395,Richiesta su contratto,Potete verificare perché contratto. fatemi sapere.,Commerciale,media
+396,Problema relativo a documento,Chiedo supporto in quanto documento. appena potete.,Commerciale,media
+397,Segnalazione ricevuta,Chiedo supporto in quanto ricevuta. grazie.,Amministrazione,media
+398,Informazioni su termine,Si è verificato il seguente problema: termine. potete controllare?.,Tecnico,media
+399,Verifica piano,Vorrei chiarimenti dato che piano. grazie mille.,Commerciale,media
+400,Informazioni su sistema,Potete verificare perché sistema per favore. resto in attesa.,Tecnico,media
+401,Informazioni su server,Non riesco a capire perché server. potete controllare?.,Tecnico,bassa
+402,Problema relativo a saldo,Vorrei chiarimenti dato che saldo. grazie mille.,Amministrazione,bassa
+403,Problema relativo a fattura,Avrei necessità di sapere perché fattura appena possibile. resto in attesa.,Amministrazione,bassa
+404,Verifica proposta,Potete verificare perché proposta appena possibile. quando possibile.,Tecnico,media
+405,Richiesta su saldo,Non riesco a capire perché saldo. grazie.,Amministrazione,bassa
+406,Richiesta su termine,"Salve, avrei bisogno di assistenza perché termine. potete aiutarmi?.",Amministrazione,bassa
+407,Problema relativo a server,"Salve, avrei bisogno di assistenza perché server. potete controllare?.",Tecnico,media
+408,Problema relativo a scadenza,"Salve, avrei bisogno di assistenza perché scadenza appena possibile. potete aiutarmi?.",Amministrazione,media
+409,Informazioni su documento,Chiedo supporto in quanto documento gentilmente. resto in attesa.,Amministrazione,bassa
+410,Verifica anomalia,Scrivo per segnalare che anomalia. appena potete.,Tecnico,media
+411,Segnalazione termine,Vorrei chiarimenti dato che termine. fatemi sapere.,Amministrazione,media
+412,Problema relativo a autenticazione,"Buongiorno, segnalo che autenticazione. fatemi sapere.",Tecnico,bassa
+413,Informazioni su richiesta prodotto,Non riesco a capire perché richiesta prodotto. potete aiutarmi?.,Tecnico,bassa
+414,Problema relativo a anomalia,Non riesco a capire perché anomalia appena possibile. serve supporto.,Tecnico,media
+415,Problema relativo a anomalia,Si è verificato il seguente problema: anomalia. potete controllare?.,Tecnico,media
+416,Richiesta su proposta,"Salve, avrei bisogno di assistenza perché proposta. grazie mille.",Commerciale,media
+417,Verifica malfunzionamento,Potete verificare perché malfunzionamento per favore. resto in attesa.,Tecnico,media
+418,Verifica server,"Salve, avrei bisogno di assistenza perché server appena possibile. attendo riscontro.",Tecnico,media
+419,Verifica nota contabile,"Gentile supporto, nota contabile. grazie.",Amministrazione,bassa
+420,Problema relativo a data limite,Chiedo supporto in quanto data limite gentilmente. grazie.,Amministrazione,bassa
+421,Problema relativo a sistema,"Buongiorno, segnalo che sistema. resto in attesa.",Tecnico,bassa
+422,Richiesta su restituzione,Non riesco a capire perché restituzione per favore. quando possibile.,Tecnico,bassa
+423,Segnalazione accesso,Chiedo supporto in quanto accesso. fatemi sapere.,Tecnico,media
+424,Verifica restituzione,Potete verificare perché restituzione gentilmente. appena potete.,Amministrazione,media
+425,Richiesta su offerta,Avrei necessità di sapere perché offerta. potete controllare?.,Tecnico,media
+426,Problema relativo a saldo,"Salve, avrei bisogno di assistenza perché saldo. grazie.",Amministrazione,bassa
+427,Richiesta su contratto,"Buongiorno, segnalo che contratto. resto in attesa.",Commerciale,bassa
+428,Segnalazione richiesta prodotto,Si è verificato il seguente problema: richiesta prodotto. grazie.,Commerciale,media
+429,Problema relativo a nota contabile,"Buongiorno, segnalo che nota contabile appena possibile. potete controllare?.",Amministrazione,media
+430,Richiesta su anomalia,"Salve, avrei bisogno di assistenza perché anomalia. resto in attesa.",Tecnico,media
+431,Verifica pagamento,"Buongiorno, segnalo che pagamento per favore. appena potete.",Tecnico,bassa
+432,Verifica sistema,Potete verificare perché sistema gentilmente. serve supporto.,Tecnico,media
+433,Verifica documento,"Gentile supporto, documento. fatemi sapere.",Commerciale,bassa
+434,Informazioni su contratto,"Buongiorno, segnalo che contratto gentilmente. resto in attesa.",Commerciale,bassa
+435,Informazioni su transazione,Avrei necessità di sapere perché transazione gentilmente. serve supporto.,Tecnico,bassa
+436,Richiesta su documento,Non riesco a capire perché documento appena possibile. grazie mille.,Amministrazione,media
+437,Segnalazione autenticazione,Potete verificare perché autenticazione per favore. potete controllare?.,Commerciale,media
+438,Richiesta su quotazione,Chiedo supporto in quanto quotazione gentilmente. quando possibile.,Commerciale,bassa
+439,Segnalazione sistema,Avrei necessità di sapere perché sistema gentilmente. serve supporto.,Tecnico,bassa
+440,Segnalazione piano,Scrivo per segnalare che piano appena possibile. resto in attesa.,Commerciale,bassa
+441,Verifica autenticazione,Vorrei chiarimenti dato che autenticazione. resto in attesa.,Tecnico,media
+442,Problema relativo a piattaforma,"Salve, avrei bisogno di assistenza perché piattaforma appena possibile. resto in attesa.",Tecnico,media
+443,Problema relativo a abbonamento,Non riesco a capire perché abbonamento gentilmente. serve supporto.,Commerciale,bassa
+444,Verifica credito,Potete verificare perché credito. grazie.,Amministrazione,media
+445,Segnalazione documento,"Buongiorno, segnalo che documento gentilmente. potete controllare?.",Amministrazione,media
+446,Informazioni su errore,Potete verificare perché errore appena possibile. serve supporto.,Tecnico,media
+447,Segnalazione login,"Gentile supporto, login. grazie mille.",Tecnico,bassa
+448,Segnalazione sistema,Si è verificato il seguente problema: sistema. potete controllare?.,Tecnico,media
+449,Problema relativo a transazione,Si è verificato il seguente problema: transazione. grazie mille.,Tecnico,media
+450,Problema relativo a saldo,Scrivo per segnalare che saldo per favore. quando possibile.,Tecnico,bassa
+451,Richiesta su restituzione,Scrivo per segnalare che restituzione. fatemi sapere.,Amministrazione,bassa
+452,Problema relativo a stima,Chiedo supporto in quanto stima per favore. fatemi sapere.,Commerciale,bassa
+453,Richiesta su nota contabile,"Salve, avrei bisogno di assistenza perché nota contabile. grazie.",Amministrazione,bassa
+454,Problema relativo a termine,"Salve, avrei bisogno di assistenza perché termine. grazie mille.",Amministrazione,bassa
+455,Verifica proposta,Non riesco a capire perché proposta. fatemi sapere.,Commerciale,media
+456,Richiesta su ordine,Chiedo supporto in quanto ordine per favore. fatemi sapere.,Commerciale,bassa
+457,Problema relativo a ordine,Chiedo supporto in quanto ordine appena possibile. quando possibile.,Commerciale,media
+458,Informazioni su acquisto,Potete verificare perché acquisto. potete aiutarmi?.,Commerciale,media
+459,Problema relativo a saldo,Scrivo per segnalare che saldo appena possibile. serve supporto.,Amministrazione,bassa
+460,Problema relativo a accesso,"Gentile supporto, accesso. quando possibile.",Tecnico,media
+461,Informazioni su saldo,Potete verificare perché saldo per favore. appena potete.,Amministrazione,media
+462,Segnalazione richiesta prodotto,Non riesco a capire perché richiesta prodotto. grazie.,Commerciale,media
+463,Richiesta su saldo,Si è verificato il seguente problema: saldo. potete aiutarmi?.,Amministrazione,media
+464,Informazioni su documento,Potete verificare perché documento gentilmente. fatemi sapere.,Amministrazione,media
+465,Richiesta su credito,Avrei necessità di sapere perché credito. fatemi sapere.,Tecnico,bassa
+466,Verifica acquisto,Chiedo supporto in quanto acquisto appena possibile. quando possibile.,Tecnico,bassa
+467,Informazioni su anomalia,"Gentile supporto, anomalia appena possibile. appena potete.",Commerciale,bassa
+468,Verifica malfunzionamento,Vorrei chiarimenti dato che malfunzionamento appena possibile. resto in attesa.,Tecnico,bassa
+469,Segnalazione proposta,Potete verificare perché proposta. fatemi sapere.,Commerciale,media
+470,Richiesta su ordine,Non riesco a capire perché ordine gentilmente. fatemi sapere.,Commerciale,bassa
+471,Problema relativo a stima,Vorrei chiarimenti dato che stima. grazie mille.,Commerciale,media
+472,Richiesta su offerta,Scrivo per segnalare che offerta. resto in attesa.,Commerciale,media
+473,Informazioni su crash,Scrivo per segnalare che crash gentilmente. appena potete.,Amministrazione,alta
+474,Informazioni su crash,Scrivo per segnalare che crash appena possibile. resto in attesa.,Tecnico,alta
+475,Problema relativo a scadenza,Non riesco a capire perché scadenza appena possibile. appena potete.,Amministrazione,bassa
+476,Richiesta su versamento,Vorrei chiarimenti dato che versamento appena possibile. fatemi sapere.,Tecnico,media
+477,Segnalazione interruzione,"Salve, avrei bisogno di assistenza perché interruzione. appena potete.",Tecnico,bassa
+478,Verifica interruzione,"Buongiorno, segnalo che interruzione appena possibile. potete controllare?.",Tecnico,media
+479,Problema relativo a proposta,Vorrei chiarimenti dato che proposta appena possibile. quando possibile.,Commerciale,bassa
+480,Richiesta su server,"Buongiorno, segnalo che server. attendo riscontro.",Tecnico,media
+481,Problema relativo a sistema,Scrivo per segnalare che sistema per favore. potete aiutarmi?.,Commerciale,bassa
+482,Verifica sistema,"Salve, avrei bisogno di assistenza perché sistema. serve supporto.",Tecnico,bassa
+483,Richiesta su autenticazione,"Gentile supporto, autenticazione. potete controllare?.",Tecnico,bassa
+484,Segnalazione sistema,Non riesco a capire perché sistema. potete controllare?.,Tecnico,bassa
+485,Richiesta su credito,"Gentile supporto, credito. grazie mille.",Tecnico,media
+486,Verifica stima,Non riesco a capire perché stima. attendo riscontro.,Amministrazione,bassa
+487,Informazioni su quotazione,"Gentile supporto, quotazione per favore. attendo riscontro.",Commerciale,bassa
+488,Problema relativo a preventivo,"Buongiorno, segnalo che preventivo appena possibile. attendo riscontro.",Commerciale,media
+489,Informazioni su acquisto,"Buongiorno, segnalo che acquisto. attendo riscontro.",Commerciale,media
+490,Segnalazione quotazione,Chiedo supporto in quanto quotazione. grazie mille.,Commerciale,bassa
+491,Problema relativo a piattaforma,Avrei necessità di sapere perché piattaforma gentilmente. fatemi sapere.,Tecnico,media
+492,Richiesta su piattaforma,Vorrei chiarimenti dato che piattaforma gentilmente. serve supporto.,Commerciale,bassa
+493,Segnalazione contratto,Non riesco a capire perché contratto gentilmente. potete aiutarmi?.,Commerciale,bassa
+494,Informazioni su preventivo,Non riesco a capire perché preventivo gentilmente. grazie.,Commerciale,bassa
+495,Problema relativo a quotazione,"Gentile supporto, quotazione. appena potete.",Commerciale,bassa
+496,Verifica promozione,"Buongiorno, segnalo che promozione. potete aiutarmi?.",Commerciale,bassa
+497,Problema relativo a scadenza,Non riesco a capire perché scadenza. grazie mille.,Amministrazione,bassa
+498,Verifica richiesta prodotto,"Salve, avrei bisogno di assistenza perché richiesta prodotto per favore. potete controllare?.",Commerciale,bassa
+499,Richiesta su nota contabile,Vorrei chiarimenti dato che nota contabile. quando possibile.,Amministrazione,bassa
+500,Segnalazione ricevuta,Avrei necessità di sapere perché ricevuta gentilmente. quando possibile.,Amministrazione,bassa
